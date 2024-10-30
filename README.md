@@ -4,6 +4,8 @@
 
 Chulalongkorn Business School & SAS Software (Thailand) Co., Ltd.
 
+Direct-contact fundraising campaign using machine learning to maximize revenue by predicting donor contributions and reducing outreach costs.
+
 - Applied predictive modeling to optimize donor outreach in a direct-contact fundraising campaign.
 - Built a 2-stage ensemble model with a pipeline for precise predictions and improved targeting.
 - Achieved 4th place by strategically balancing donation forecasts with contact costs.
